@@ -1,0 +1,11 @@
+
+
+.login{
+    background-image:linear-gradient(0 ,rgba(255 , 255 , 0 ,0.1) , rgba(0 , 255 , 255 ,0.2)) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    padding-left: 150px;
+    width: 100%;
+    height: 760px;
+}
